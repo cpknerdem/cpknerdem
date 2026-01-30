@@ -31,13 +31,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/cpknerdem/cpknerdem/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/b5/b4/66/b5b4667f8fff7fc46a3ea9effc0b27d0.jpg"  />
-</div>
-
-###
